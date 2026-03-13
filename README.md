@@ -21,11 +21,6 @@ You can use this repository to ensure that your AI assistants write professional
 
 We want to enrich this repository with contributions from the community. Please check the `CONTRIBUTING.md` file for details on how to add new rules.
 
-## ☕ Support This Project
-
-If you find these guidelines helpful for your API development or if it saved your AI agents from making mistakes, consider supporting the project!
-
-<a href='https://ko-fi.com/euphraetes' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
 ## 👤 Author & Contact
 
